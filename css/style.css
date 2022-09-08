@@ -1,0 +1,92 @@
+/* Global  */
+.why-100-px-here{
+margin-top:100px;
+}
+p{
+    font-family: 'Poppins', sans-serif; 
+}
+h1, a{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: #83878D;       
+}
+/* Global End */
+
+
+/* Navbar */
+nav{
+    display: block;
+    text-align: center;            
+}
+.navbar-item{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: beige;
+    font-size: 25px;
+}
+.navbar-item:hover{
+    text-decoration: underline;
+    color:white;
+    background-color: black;
+}
+/* Navbar End*/
+
+
+
+/* The Rest */
+.text{   
+  margin: auto;
+  width: 50%;
+  padding: 10px; 
+}
+
+.inline{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.main-stuff{
+    margin-top: 100px;
+    text-align: center;
+}
+ul{
+    list-style: none;    
+    padding: 10px;
+    margin-right: 0px;
+}
+#profile-pic{
+    width: 100%;
+    width: 200px;    
+}
+.center-text{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.form-text{
+    display: inline-block;
+    width: 120px;
+    padding-bottom: 10px;
+}
+#submit-button{
+    width: 235px;
+    margin-left:125px;
+    border-radius: 5px;
+    background: #fff;
+	border-color: #fff;
+	border-style: solid;
+}
+.input{
+    border-radius: 2px;
+}
+#label-text-area{
+    position: relative;
+    top: -80px;
+}
+
